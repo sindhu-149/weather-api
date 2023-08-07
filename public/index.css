@@ -1,0 +1,27 @@
+    body{
+        
+        background-image: url('https://t4.ftcdn.net/jpg/04/97/80/99/360_F_497809944_FMo3DO6j7XSlb9rZKOlnqaaWoJhuZXBm.jpg');
+        background-repeat: no-repeat;
+        width: 100%;
+        background-size: cover;
+        overflow: hidden;
+
+    }
+
+.app{
+    background-color: white;
+    width: 400px;
+    padding: 20px 50px;
+    margin: 200px auto 0 auto;
+    text-align: center  ;
+    
+}
+.btn{
+    display: block;
+    margin: 30px auto;
+    
+}
+#address {
+    padding: 10px 20px;
+    border-radius: 4px;
+}
